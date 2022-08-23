@@ -205,8 +205,11 @@ Picture sequence*
 
 
 ![Picture 1](https://user-images.githubusercontent.com/100743287/186285698-7331685b-8dd1-4cb3-86ed-d3f7d60b1992.png)
+
 ![picture 2](https://user-images.githubusercontent.com/100743287/186285712-d856accb-fe9e-480e-9961-13f1b944d69a.png)
-![Picture 1](https://user-images.githubusercontent.com/100743287/186285714-79106e4a-b53a-480c-9eeb-f193a501a9a6.png)
+
 ![picture 3](https://user-images.githubusercontent.com/100743287/186285722-d49e9bcb-d5f2-42a0-9a97-92ca3ee39e93.png)
+
 ![picture 4](https://user-images.githubusercontent.com/100743287/186285723-7d124e11-2a39-4693-ad04-d956e56f1ac8.png)
+
 ![picture 5](https://user-images.githubusercontent.com/100743287/186285724-44e6de41-b647-4e91-882d-1870b7324091.png)
