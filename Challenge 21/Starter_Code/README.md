@@ -202,14 +202,15 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
     * View your tokens in MetaMask. In MetaMask, click Add Token, then click Custom Token,  and enter the token contract’s address. Make sure to purchase higher amounts of tokens in order to see the denomination appear in your wallet as more than a few wei worth.
 
 Picture sequence*
+1) Ganache private key to use for metamask account so it can connect to my remix and execute a real transaction.
+![Picture 1](https://user-images.githubusercontent.com/100743287/186286055-94df3d7d-e15a-44b0-94fa-84660ab8d0b4.png)
+
+2)Compile both documents 
+![picture 5](https://user-images.githubusercontent.com/100743287/186286390-3ec70f24-51fe-4af0-bff4-ceea6662eb70.png)
+![picture 6](https://user-images.githubusercontent.com/100743287/186286805-74b08943-2a58-4a33-a6da-de7a61eb47a3.png)
+
+3)Transact
+![picture 2](https://user-images.githubusercontent.com/100743287/186286888-8a73559e-0ec9-47e4-b973-bd896ddb4c19.png)
+![picture 3](https://user-images.githubusercontent.com/100743287/186286919-e5e28801-017f-4e6e-ab9b-dd54fced96b9.png)
 
 
-![Picture 1](https://user-images.githubusercontent.com/100743287/186285698-7331685b-8dd1-4cb3-86ed-d3f7d60b1992.png)
-
-![picture 2](https://user-images.githubusercontent.com/100743287/186285712-d856accb-fe9e-480e-9961-13f1b944d69a.png)
-
-![picture 3](https://user-images.githubusercontent.com/100743287/186285722-d49e9bcb-d5f2-42a0-9a97-92ca3ee39e93.png)
-
-![picture 4](https://user-images.githubusercontent.com/100743287/186285723-7d124e11-2a39-4693-ad04-d956e56f1ac8.png)
-
-![picture 5](https://user-images.githubusercontent.com/100743287/186285724-44e6de41-b647-4e91-882d-1870b7324091.png)
